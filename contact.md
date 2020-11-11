@@ -27,5 +27,5 @@ layout: layout.html
   <input type="hidden" name="_captcha" value="false">
   <input type="submit" value="Send Form">
 </form>
- 也可以加我們der<b>wechat喔</b>
+ 也可以加我們der <b>wechat喔</b>
   <img src="https://user-images.githubusercontent.com/70761288/98826386-91717100-2470-11eb-82e8-bb98b4caad21.jpg" alt="photo" width="230" height="230">
