@@ -15,7 +15,7 @@ layout: layout.html
   </p>
   <p>
     <label for="email">留下聯絡方式吧(只是為了跟進):</label>
-    <input type="email" id="email" name="email" placeholder='wechatid之類的,'>    
+    <input type="email" id="email" name="email" placeholder='wechat id之類的,'>    
     <input type="email" id="workemail" name="_honey" >
   </p>
    <p>
